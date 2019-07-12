@@ -40,14 +40,6 @@
       "categoria": "Hombre Futbol",
       "imagen":"https://sfestaticos.blob.core.windows.net/web/test-ignacio/guante-5.jpg"
     },
-    {
-      "id": "hombre-futbol",
-      "nombre": "Adidas force",
-      "precio": "25.990",
-      "descripción": "GUANTES DE ARQUERO DE ENTRENAMIENTO PREDATOR",
-      "categoria": "Hombre Futbol",
-      "imagen":"https://sfestaticos.blob.core.windows.net/web/test-ignacio/guante-6.jpg"
-    }
   ],
   "camisetas": [
     {
@@ -244,7 +236,7 @@
       "id": "medias",
       "nombre": "Adidas force",
       "precio": "25.990",
-      "descripción": "GUANTES DE ARQUERO DE ENTRENAMIENTO PREDATORre",
+      "descripción": "GUANTES DE ARQUERO DE ENTRENAMIENTO PREDATOR",
       "categoria": "medias",
       "imagen":"https://sfestaticos.blob.core.windows.net/web/test-ignacio/media-6.jpg"
     }
