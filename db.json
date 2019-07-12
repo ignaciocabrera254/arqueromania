@@ -1,7 +1,7 @@
 {
-  "productos": [
+  "guantes": [
     {
-      "id": "Rinat one",
+      "id": "hombre-futbol",
       "nombre": "Rinat one",
       "precio": "59.990",
       "descripción": "GUANTES DE ARQUERO DE ENTRENAMIENTO PREDATOR",
@@ -9,7 +9,7 @@
       "imagen":"https://sfestaticos.blob.core.windows.net/web/test-ignacio/guante-1.jpg"
     },
     {
-      "id": "Rinat one",
+      "id": "hombre-futbol",
       "nombre": "Asimetrik spines",
       "precio": "49.990",
       "descripción": "GUANTES DE ARQUERO DE ENTRENAMIENTO PREDATOR",
@@ -17,7 +17,7 @@
       "imagen":"https://sfestaticos.blob.core.windows.net/web/test-ignacio/guante-2.jpg"
     },
     {
-      "id": "Rinat one",
+      "id": "hombre-futbol",
       "nombre": "Asimetrik espines",
       "precio": "40.990",
       "descripción": "GUANTES DE ARQUERO DE ENTRENAMIENTO PREDATOR",
@@ -25,28 +25,78 @@
       "imagen":"https://sfestaticos.blob.core.windows.net/web/test-ignacio/guante-3.jpg"
     },
     {
-      "id": "Rinat one",
+      "id": "hombre-futbol",
       "nombre": "Asimetrik espines",
       "precio": "40.990",
       "descripción": "GUANTES DE ARQUERO DE ENTRENAMIENTO PREDATOR",
       "categoria": "Hombre Futbol",
-      "imagen":"https://sfestaticos.blob.core.windows.net/web/test-ignacio/guante-3.jpg"
+      "imagen":"https://sfestaticos.blob.core.windows.net/web/test-ignacio/guante-4.jpg"
     },
     {
-      "id": "Rinat one",
+      "id": "hombre-futbol",
       "nombre": "Asimetrik espines",
       "precio": "40.990",
       "descripción": "GUANTES DE ARQUERO DE ENTRENAMIENTO PREDATOR",
       "categoria": "Hombre Futbol",
-      "imagen":"https://sfestaticos.blob.core.windows.net/web/test-ignacio/guante-3.jpg"
+      "imagen":"https://sfestaticos.blob.core.windows.net/web/test-ignacio/guante-5.jpg"
     },
     {
-      "id": "Rinat one",
+      "id": "hombre-futbol",
       "nombre": "Adidas force",
       "precio": "25.990",
       "descripción": "GUANTES DE ARQUERO DE ENTRENAMIENTO PREDATOR",
       "categoria": "Hombre Futbol",
-      "imagen":"https://sfestaticos.blob.core.windows.net/web/test-ignacio/guante-4.jpg"
+      "imagen":"https://sfestaticos.blob.core.windows.net/web/test-ignacio/guante-6.jpg"
+    }
+  ],
+  "camisetas": [
+    {
+      "id": "camisetas",
+      "nombre": "Rinat one",
+      "precio": "59.990",
+      "descripción": "GUANTES DE ARQUERO DE ENTRENAMIENTO PREDATOR",
+      "categoria": "camisetas",
+      "imagen":"https://sfestaticos.blob.core.windows.net/web/test-ignacio/camiseta-1.jpg"
+    },
+    {
+      "id": "camisetas",
+      "nombre": "Asimetrik spines",
+      "precio": "49.990",
+      "descripción": "GUANTES DE ARQUERO DE ENTRENAMIENTO PREDATOR",
+      "categoria": "camisetas",
+      "imagen":"https://sfestaticos.blob.core.windows.net/web/test-ignacio/camiseta-2.jpg"
+    },
+    {
+      "id": "camisetas",
+      "nombre": "Asimetrik espines",
+      "precio": "40.990",
+      "descripción": "GUANTES DE ARQUERO DE ENTRENAMIENTO PREDATOR",
+      "categoria": "camisetas",
+      "imagen":"https://sfestaticos.blob.core.windows.net/web/test-ignacio/camiseta-3.jpg"
+    },
+    {
+      "id": "camisetas",
+      "nombre": "Asimetrik espines",
+      "precio": "40.990",
+      "descripción": "GUANTES DE ARQUERO DE ENTRENAMIENTO PREDATOR",
+      "categoria": "camisetas",
+      "imagen":"https://sfestaticos.blob.core.windows.net/web/test-ignacio/camiseta-4.jpg"
+    },
+    {
+      "id": "camisetas",
+      "nombre": "Asimetrik espines",
+      "precio": "40.990",
+      "descripción": "GUANTES DE ARQUERO DE ENTRENAMIENTO PREDATOR",
+      "categoria": "camisetas",
+      "imagen":"https://sfestaticos.blob.core.windows.net/web/test-ignacio/camiseta-5.jpg"
+    },
+    {
+      "id": "camisetas",
+      "nombre": "Adidas force",
+      "precio": "25.990",
+      "descripción": "GUANTES DE ARQUERO DE ENTRENAMIENTO PREDATOR",
+      "categoria": "camisetas",
+      "imagen":"https://sfestaticos.blob.core.windows.net/web/test-ignacio/camiseta-6.jpg"
     }
   ],
   "profile": {
