@@ -2,12 +2,12 @@
   "guantes": [
     {
       "id": 1,
-      "nombre": "Rinat one",
-      "precio": "59.990",
+      "name": "Rinat one",
+      "price": "59.990",
       "descripción": "GUANTES DE ARQUERO DE ENTRENAMIENTO PREDATOR",
       "categoria": "Hombre Futbol",
-      "imagen":"https://sfestaticos.blob.core.windows.net/web/test-ignacio/guante-1.jpg",
-      "stock" : 5
+      "img":"https://sfestaticos.blob.core.windows.net/web/test-ignacio/guante-1.jpg",
+      "stock" : 3
     },
     {
       "id": 2,
