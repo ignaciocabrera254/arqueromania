@@ -55,15 +55,14 @@
       "stock" : 3
     }
   ],
-  "camisetas": [
+  "camisetas": [  
     {
-      "id": 7,
-      "name": "Camiseta Rinatt",
-      "price": "59.990",
+      "id": "camisetas",
+      "nombre": "Asimetrik spi",
+      "precio": "39.990",
       "descripcion": "GUANTES DE ARQUERO DE ENTRENAMIENTO PREDATOR",
       "categoria": "camisetas",
-      "img":"https://sfestaticos.blob.core.windows.net/web/test-ignacio/camiseta-1.jpg",
-      "stock" : 3
+      "imagen":"https://sfestaticos.blob.core.windows.net/web/test-ignacio/camiseta-1.jpg"
     },
     {
       "id": "camisetas",
