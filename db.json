@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Rinat one",
-      "price": "59.990",
+      "price": "29.990",
       "descripcion": "GUANTES DE ARQUERO DE ENTRENAMIENTO PREDATOR",
       "categoria": "Hombre Futbol",
       "img":"https://sfestaticos.blob.core.windows.net/web/test-ignacio/guante-1.jpg",
@@ -11,8 +11,8 @@
     },
     {
       "id": 2,
-      "name": "Rinat two",
-      "price": "59.990",
+      "name": "Puma Red",
+      "price": "39.990",
       "descripcion": "GUANTES DE ARQUERO DE ENTRENAMIENTO PREDATOR",
       "categoria": "Hombre Futbol",
       "img":"https://sfestaticos.blob.core.windows.net/web/test-ignacio/guante-2.jpg",
@@ -20,8 +20,8 @@
     },
     {
       "id": 3,
-      "name": "Rinat one",
-      "price": "59.990",
+      "name": "Support Frame",
+      "price": "49.990",
       "descripcion": "GUANTES DE ARQUERO DE ENTRENAMIENTO PREDATOR",
       "categoria": "Hombre Futbol",
       "img":"https://sfestaticos.blob.core.windows.net/web/test-ignacio/guante-3.jpg",
@@ -29,7 +29,7 @@
     },
     {
       "id": 4,
-      "name": "Rinat one",
+      "name": "Puma One 4",
       "price": "59.990",
       "descripcion": "GUANTES DE ARQUERO DE ENTRENAMIENTO PREDATOR",
       "categoria": "Hombre Futbol",
@@ -38,8 +38,8 @@
     },
     {
       "id": 5,
-      "name": "Rinat one",
-      "price": "59.990",
+      "name": "Mitre Trent F2 Blue",
+      "price": "65.990",
       "descripcion": "GUANTES DE ARQUERO DE ENTRENAMIENTO PREDATOR",
       "categoria": "Hombre Futbol",
       "img":"https://sfestaticos.blob.core.windows.net/web/test-ignacio/guante-5.jpg",
@@ -47,8 +47,8 @@
     },
     {
       "id": 6,
-      "name": "Rinat one",
-      "price": "59.990",
+      "name": "Mitre Trent F2 Orange",",
+      "price": "69.990",
       "descripcion": "GUANTES DE ARQUERO DE ENTRENAMIENTO PREDATOR",
       "categoria": "Hombre Futbol",
       "img":"https://sfestaticos.blob.core.windows.net/web/test-ignacio/guante-6.jpg",
