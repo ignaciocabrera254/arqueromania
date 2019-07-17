@@ -1,7 +1,7 @@
 {
   "guantes": [
     {
-      "id": "guante1",
+      "id": 1,
       "nombre": "Rinat one",
       "precio": "59.990",
       "descripción": "GUANTES DE ARQUERO DE ENTRENAMIENTO PREDATOR",
@@ -9,7 +9,7 @@
       "imagen":"https://sfestaticos.blob.core.windows.net/web/test-ignacio/guante-1.jpg"
     },
     {
-      "id": "guante2",
+      "id": 2,
       "nombre": "Asimetrik spines",
       "precio": "49.990",
       "descripción": "GUANTES DE ARQUERO DE ENTRENAMIENTO PREDATOR",
@@ -17,7 +17,7 @@
       "imagen":"https://sfestaticos.blob.core.windows.net/web/test-ignacio/guante-2.jpg"
     },
     {
-      "id": "guante3",
+      "id": 3,
       "nombre": "Asimetrik espines",
       "precio": "40.990",
       "descripción": "GUANTES DE ARQUERO DE ENTRENAMIENTO PREDATOR",
@@ -25,7 +25,7 @@
       "imagen":"https://sfestaticos.blob.core.windows.net/web/test-ignacio/guante-3.jpg"
     },
     {
-      "id": "guante4",
+      "id": 4,
       "nombre": "Asimetrik espines",
       "precio": "40.990",
       "descripción": "GUANTES DE ARQUERO DE ENTRENAMIENTO PREDATOR",
@@ -33,7 +33,7 @@
       "imagen":"https://sfestaticos.blob.core.windows.net/web/test-ignacio/guante-4.jpg"
     },
     {
-      "id": "guante5",
+      "id": 5,
       "nombre": "Asimetrik espines",
       "precio": "40.990",
       "descripción": "GUANTES DE ARQUERO DE ENTRENAMIENTO PREDATOR",
